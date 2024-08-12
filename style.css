@@ -92,12 +92,13 @@ body::-webkit-scrollbar {
 }
 
 .title-text {
-    font-size: 10vh;
-    color: #a652ff;
-    font-family: 'Arial Black', Arial, sans-serif;
-    font-weight: bold;
-    letter-spacing: 0.1em;
-    text-shadow: 0 0 5px #a652ff, 0 0 10px #8000ff;
+    font-size: 10vh; 
+    color: #a652ff; 
+    font-family: "Roboto Slab", serif;
+    font-style: normal;
+    font-weight: bold; 
+    letter-spacing: 0.1em; 
+    text-shadow: 0 0 5px #a652ff, 0 0 10px #8000ff; 
     white-space: nowrap;
 }
 
